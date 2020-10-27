@@ -2,4 +2,14 @@
     <string name="app_name">About me</string>
     <string name="name">Mariana</string>
     <string name="yellow_star">estrela amarela</string>
+    <string name="bio">Me chamo <b>Mariana Junqueira</b> e tenho 23 anos. \n
+                       Sou formada em GTI e estou atualmente aprendendo desenvolvimento em Kotlin (Android). \n
+                       Pretendo aprender Desenvolvimento Web e me especializar em UX/UI. \n
+                       Já trabalhei como Analista de Sistema, elaborando sistemas em VBA - Access. \n
+                       Atualmente trabalho como Diagramadora Visual Gráfica em uma empresa dentro da Mercedes-Benz. \n
+                       Estou a 4 anos na minha empresa atual, entrei como Aprendiz, virei Estagiária e fui efetivada. \n
+                       Falo inglês e estou estudando Alemão. \n
+                       Já fiz um curso de comissária de voo, no qual fiz uma sobrevivência na selva. \n
+                       Estou procurando uma oportunidade como desenvolvedora, seja no Brasil ou fora. \n
+    </string>
 </resources>

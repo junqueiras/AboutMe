@@ -10,7 +10,7 @@
     android:padding="@dimen/small_padding">
 
     <TextView
-        android:id="@+id/name_text"
+        android:id="@+id/text_name"
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -23,4 +23,21 @@
         android:layout_gravity="center"
         android:contentDescription="@string/yellow_star"
         app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/layout_margin">
+
+
+        <TextView
+            android:id="@+id/text_bio"
+            style="@style/style_bio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bio"
+            android:textAlignment="center" />
+    </ScrollView>
+
+
 </LinearLayout>

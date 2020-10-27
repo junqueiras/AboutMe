@@ -16,4 +16,9 @@
         <item name="android:padding">@dimen/small_padding</item>
     </style>
 
+    <style name="style_bio">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/text_bio</item>
+    </style>
+
 </resources>

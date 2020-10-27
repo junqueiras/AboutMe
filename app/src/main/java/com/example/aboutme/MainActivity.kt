@@ -1,4 +1,4 @@
-package com.example.aboutme2
+package com.example.aboutme
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
